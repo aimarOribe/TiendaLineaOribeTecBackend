@@ -1,0 +1,14 @@
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\bin\Debug\net6.0\SistemaEcommerce.Entity.deps.json
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\bin\Debug\net6.0\SistemaEcommerce.Entity.runtimeconfig.json
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\bin\Debug\net6.0\SistemaEcommerce.Entity.dll
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\bin\Debug\net6.0\SistemaEcommerce.Entity.pdb
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.AssemblyInfo.cs
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.dll
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\refint\SistemaEcommerce.Entity.dll
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.pdb
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\SistemaEcommerce.Entity.genruntimeconfig.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Entity\obj\Debug\net6.0\ref\SistemaEcommerce.Entity.dll

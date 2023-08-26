@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3p2RVqfAusN3hHewYrUyROYORLj2ih/1uP5XcQUPlRA=",
+  "Source": "SistemaEcommerce.Api",
+  "BasePath": "_content/SistemaEcommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

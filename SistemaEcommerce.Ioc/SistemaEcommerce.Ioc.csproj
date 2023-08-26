@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaEcommerce.Bll\SistemaEcommerce.Bll.csproj" />
+    <ProjectReference Include="..\SistemaEcommerce.Dal\SistemaEcommerce.Dal.csproj" />
+    <ProjectReference Include="..\SistemaEcommerce.Utility\SistemaEcommerce.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

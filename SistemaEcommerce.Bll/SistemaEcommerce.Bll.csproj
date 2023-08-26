@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAuthentication.net" Version="3.7.2" />
+    <PackageReference Include="FirebaseStorage.net" Version="1.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaEcommerce.Dal\SistemaEcommerce.Dal.csproj" />
+    <ProjectReference Include="..\SistemaEcommerce.Dto\SistemaEcommerce.Dto.csproj" />
+    <ProjectReference Include="..\SistemaEcommerce.Entity\SistemaEcommerce.Entity.csproj" />
+    <ProjectReference Include="..\SistemaEcommerce.Utility\SistemaEcommerce.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

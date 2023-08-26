@@ -1,0 +1,12 @@
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\bin\Debug\net6.0\SistemaEcommerce.Dto.deps.json
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\bin\Debug\net6.0\SistemaEcommerce.Dto.dll
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\bin\Debug\net6.0\SistemaEcommerce.Dto.pdb
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.AssemblyInfoInputs.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.AssemblyInfo.cs
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.dll
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\refint\SistemaEcommerce.Dto.dll
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\SistemaEcommerce.Dto.pdb
+C:\Users\Aimar\source\repos\ProyectoEcommerce\APISistemaEcommerce\SistemaEcommerce.Dto\obj\Debug\net6.0\ref\SistemaEcommerce.Dto.dll
